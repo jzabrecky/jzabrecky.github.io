@@ -1,0 +1,23 @@
+---
+title: "misc"
+format: html
+filters: 
+  - lightbox
+lightbox: auto
+freeze: auto
+editor: source
+---
+
+### Salmon River Coloring Book
+
+This work was put together by technician Taryn Elliott and me. It showcases the algal succession pattern shown on the Salmon River in northern California (*a tributary to the Klamath River!*). We drew the line art with digital software and a tablet and I came up with the rhyming text one day when I was feeling poetic.
+
+It is publicly hosted on the [Open Educational Resources Commons](https://oercommons.org/courseware/lesson/141536). Please feel free to use it!
+
+::: {layout="[[1, 1, 1]]"}
+![](images/coloringbook_title.png){group="coloringbook" description="Salmon River Coloring Book title page"}
+
+![](images/microcoleus_macroscopic.png){group="coloringbook" description="Line art of macroscopic *Microcoleus* mats found  in the Salmon River"}
+
+![](images/diatoms_microscopic.png){group="coloringbook" description="Line art of microscopic diatoms found in the Salmon River"}
+:::

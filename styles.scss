@@ -1,0 +1,22 @@
+/*-- scss:defaults --*/
+
+// colors
+$sage: #82b39b;
+$darksage: #4e6b5d;
+$lavendar: #9A82B3;
+$unknown: #409690;
+$cream: #f2f2eb;
+
+// base document colors
+$navbar-bg: $sage; // navigation bar
+$navbar-hl: $lavendar; // navigation bar text highlight
+$body-bg: $cream; // page background
+$link-color: $lavendar; //link color
+
+h4, h4.anchored {
+  color: $darksage;
+}
+
+h3, h3.anchored {
+  color: $darksage;
+}

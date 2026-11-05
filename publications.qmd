@@ -1,0 +1,41 @@
+---
+title: "publications"
+editor: source
+---
+
+### academic journal articles
+
+*(for the most up to date publications, see [my google scholar](https://scholar.google.com/citations?user=myAzTRMAAAAJ&hl=en))*
+
+<ol reversed>
+
+<li>Kelly, L., S.A. Wood, \[and 32 others including **J.M**. **Zabrecky**\]. Tracking the global proliferation of benthic aquatic *Microcoleus*: taxonomy, distribution, toxin production, ecology, and future directions. *Water Research*. 249, 125441. [DOI: 10.1016/j.watres.2026.125441](https://doi.org/10.1016/j.watres.2026.125441)</li>
+
+<li>Brown, S. M., J.R. Blaszczak, R.K. Shriver, R.C. Jones, A. Sohrab, R. Goel, G.L. Boyer, B.  Wei, K.M. Manoylov, T.R. Nelson, **J.M.** **Zabrecky**, and R. Stancheva. 2025. Growth and anatoxin-a production of *Microcoleus* (Cyanobacteria) strains from streams in California, USA*. Harmful Algae* 144, 102834. [DOI: 10.1016/j.hal.2025.102834](https://doi.org/10.1016/j.hal.2025.102834)</li>
+
+<li>**Zabrecky, J.M.**, X-M. Liu, Q Wu, and C. Cao. 2021. Evidence of anthropogenic gadolinium in Triangle Area Waters, North Carolina, USA. *Water* 13(14), 1895. [DOI: 10.3390/w13141895](https://doi.org/10.3390/w13141895)</li>
+
+DOI: 10.3390/w13141895
+
+</ol>
+
+##### *in press, review, or prep*
+
+- **Zabrecky, J.M.**, T.A. Elliott, M. Hickey, K. Bouma-Gregson, G. Boyer, R. Fadness, L. Genzoli, R. Goel, G. Johnson, R. Shriver, R. Stancheva, M. Thomas, Z. Triumph, and J.R. Blaszczak. Predicting taxon-specific benthic cyanobacterial mat cover and anatoxin concentrations in northern California rivers. *In Review*. [Preprint available on bioRxiv](https://www.biorxiv.org/content/10.64898/2026.09.04.748937v1.abstract).
+- **Zabrecky, J.M.**, T.A. Elliott, M. Hickey, K. Bouma-Gregson, G. Boyer, R.M. Fitzpatrick, R. Goel, G. Johnson, F. Manzoor, A. Sohrab, R. Stancheva, Z. Triumph, and J.R. Blaszczak. Algal and bacterial assemblages associated with benthic cyanobacteria *Microcoleus* and *Anabaena* vary among rivers and with anatoxin detection. *In Review*.
+
+### field data releases
+
+<ol reverse>
+
+<li>**Zabrecky, J.M.**, T.A. Elliott, M. Hickey, H. Lei, R.S. Christova, G. Boyer, L. Genzoli, G. Johnson, and J.R. Blaszczak. 2025. Anatoxin concentrations, algal assemblages, and water quality data for the South Fork Eel, Salmon, and Russian Rivers in northern California, 2022-2023. *Environmental Data Initiative*. [DOI: 10.6073/pasta/dd858a8903f9d22ec7f4ef03584f5bd5](https://doi.org/10.6073/pasta/dd858a8903f9d22ec7f4ef03584f5bd5)</li>
+
+</ol>
+
+### code & modeling data releases
+
+<ol reverse>
+
+<li>**Zabrecky, J.M.**, T.A. Elliott, M. Hickey, K. Bouma-Gregson, G. Boyer, R. Fadness, L. Genzoli, R. Goel, G. Johnson, R. Shriver, R. Stancheva, M. Thomas, Z. Triumph, and J.R. Blaszczak. Code and Data for Zabrecky et al., Predicting taxon-specific benthic cyanobacterial mat cover and anatoxin concentrations in northern California rivers. *Zenodo*. [DOI: 10.5281/zenodo.22820005](https://doi.org/10.5281/zenodo.22820005) </li>
+
+</ol>

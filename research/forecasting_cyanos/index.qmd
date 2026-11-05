@@ -1,0 +1,27 @@
+---
+title: "Predicting and forecasting cyanobacterial harmful algal blooms (cHABs) in freshwaters"
+image: images/viewing_cyanos.jpeg
+filters: 
+  - lightbox
+lightbox: auto
+freeze: auto
+editor: source
+---
+
+#### overview
+
+Cyanobacterial harmful algal blooms (cHABs) can negatively impact water quality multiple ways including the production of cyanotoxins and other nuisance compounds, reduction of water clarity, and creation of hypoxic (*i.e., low oxygen*) environments following their decay. Improving our ability to predict or forecast when cHABs will occur helps our ability to inform water quality management whether it be for drinking water or recreation. This research ties in **both model development and ecological understanding to make better predictions and forecasts of cyanobacterial blooms.**
+
+#### specifically, my research:
+
+- tackles forecasting [poorly-understood benthic cyanobacteria proliferations](./research/benthic_cyanos_tax/) that grow on the bottoms of rivers by evaluating the potential of gross primary productivity (*which reflects the activity of organisms undergoing photosynthesis in the river*) as a predictor in addition to abiotic predictors (i.e., temperature, nutrients, discharge)
+
+To estimate gross primary productivity (GPP) in rivers, we use high-frequency dissolved oxygen data collected from sensors. We then use that data with other data (such as temperature, light, river depth) to create time series estimates of GPP which we then compared to benthic cyanobacterial dynamics.
+
+::: {layout="[[1, 1, 1]]"}
+![](images/DO_sensor.jpeg){group="bc_prediction" description="Dissolved oxygen and conductivity sensors placed in the South Fork Eel River, CA"}
+
+![](images/microcoleus_riffle.jpeg){group="bc_prediction" description="*Microcoleus* proliferation in the South Fork Eel River, CA"}
+
+![](images/kayaking.jpeg){group="bc_prediction" description="We get average river depth estimates for GPP modeling via kayaking and taking depth measurements with a sonar depth finder"}
+:::

@@ -3,18 +3,27 @@ project:
   output-dir: docs
 
 website:
-  title: "jzabrecky.github.io"
+  title: "Jordan Zabrecky"
+  favicon: images/cosmarium_icon.png
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+      - href: research.qmd
+        text: research
+      - href: publications.qmd
+        text: publications
+      - href: misc.qmd
+        text: misc.
+      - href: cv/JordanZabrecky_CV.pdf
+        text: CV
+      - icon: github 
+        href: https://github.com/jzabrecky
+        target: _blank
+ 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - minty
+      - styles.scss
     css: styles.css
     toc: true
 

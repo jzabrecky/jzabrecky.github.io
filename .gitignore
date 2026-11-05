@@ -8,3 +8,8 @@
 
 /.quarto/
 **/*.quarto_ipynb
+
+# do not upload image files
+/images
+/research/forecasting_cyanos/images
+/research/benthic_cyanos_atx/images

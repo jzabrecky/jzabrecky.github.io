@@ -1,11 +1,28 @@
 ---
-title: "jzabrecky.github.io"
+image: images/headshot.jpeg
+about: 
+  template: trestles
+  image-shape: round
+  links:
+    - icon: github 
+      text: GitHub
+      href: https://github.com/jzabrecky
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=myAzTRMAAAAJ&view_op=list_works&gmla=AElLoL3P4_DHyw0qvauecDyO1WGxLkezfEFN9hiYynwX6a6tPDbO98ZvyKV7T-XJCvBhRg2GqM0hC-eU04qTuYfw
+    - icon: envelope 
+      text: Email
+      href: mailto:jzabrecky@unr.edu
+editor: source
+toc: false
 ---
 
-This is a Quarto website.
+## about me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am currently a PhD candidate in Natural Resources and Environmental Science at the University of Nevada, Reno in the [Blaszczak Lab](https://blaszczaklab.weebly.com/). Broadly, I am interested in the intersection of **water quality**, **public & ecological health**, and **data science**. My dissertation research focuses on understanding and forecasting the timing of toxin-producing cyanobacteria in rivers.
 
-```{r}
-1 + 1
-```
+Outside of science, I am an avid rock climber. I also enjoy knitting, crocheting, and reading.
+
+------------------------------------------------------------------------
+
+## 

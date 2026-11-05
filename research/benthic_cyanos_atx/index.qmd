@@ -1,0 +1,51 @@
+---
+title: "Understanding controls on growth and anatoxin production of benthic cyanobacteria"
+image: images/twotaxa.jpeg
+filters: 
+  - lightbox
+lightbox: auto
+freeze: auto
+editor: source
+---
+
+#### overview
+
+Cyanobacteria that grow attached to the bottom surface of aquatic environments *(i.e., benthic cyanobacteria)* can produce dangerous compounds known as anatoxins which have been responsible [for the death of dogs in recreational areas](https://www.pnas.org/doi/10.1073/pnas.2407913121). Unlike their free-floating counterparts *(i.e., planktonic cyanobacteria)* which often proliferate due to excess nutrients and high temperatures, benthic cyanobacteria are poorly understood. Often, benthic cyanobacteria are found in pristine, low nutrient rivers such as those in northern California that are popular recreational areas. Overall, this research aims to **understand influences on benthic cyanobacteria growth and anatoxin production** to better inform water recreation management.
+
+::: {layout="[[1, 1, 1, 1]]"}
+![](images/microcoleus1.jpeg){group="BC" description="*Microcoleus* mats in the Salmon River, CA"}
+
+![](images/anabaena1.jpeg){group="BC" description="*Anabaena* (green towers) growing on *Cladophora* (a genus of green algae- *the fuzzy stuff on the bottom!*) in the South Fork Eel River, CA"}
+
+![](images/microcoleus2.jpeg){group="BC" description="*Microcoleus* mats in the South Fork Eel River, CA"}
+
+![](images/anabaena2.jpeg){group="BC" description="*Anabaena* (emerald green) on *Cladophora* (genus of green algae) in the South Fork Eel River, CA"}
+:::
+
+#### specifically, my research:
+
+- documents patterns of cover and anatoxin concentrations for two taxa of benthic cyanobacteria within three rivers and evaluates multiple covariates (e.g., temperature, nutrients, etc.) to [predict](./research/forecasting_cyanos/) future taxon-specific dynamics
+
+- characterizes changes in algal and microbial assemblages associated with benthic cyanobacteria to identify potential species interactions that could influence or be related to anatoxin production
+
+![](images/microscopy.jpeg){width="30%" description="*Microcoleus* and *Anabaena* filaments co-existing ... in harmony?!" fig-align="center"}
+
+To do this work, I was fortunate to live at [UC Berkeley's Angelo Coast Reserve](https://angelo.ucnrs.org/) in northern California for two summers. Working out of the reserve, we (*referring to myself and two helpful technicians!*) sampled on the South Fork Eel, Russian, and Salmon Rivers (traditional homes of the Sinkyone, Pomo, and Karuk peoples respectively). All data collected are publicly released and can be found [here](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1974.3).
+
+::: {layout="[[1], [1, 1]]"}
+![](images/angelo_hike.jpeg){group="angelo" description="Wooden DIY bridge across the an early portion of South Fork Eel River at the Angelo Reserve"}
+
+![](images/angelo_lab.jpeg){group="angelo" description="Lab Facilities at the Angelo Reserve"}
+
+![](images/angelo_deer.jpeg){group="angelo" description="A young deer that would often hang out with me at a swimming hole at the Angelo Reserve in 2022"}
+:::
+
+#### relevant publications
+
+- Kelly, L., S.A. Wood, \[and 32 others including **J.M**. **Zabrecky**\]. Tracking the global proliferation of benthic aquatic *Microcoleus*: taxonomy, distribution, toxin production, ecology, and future directions. *Water Research*. 249, 125441. [DOI: 10.1016/j.watres.2026.125441](https://doi.org/10.1016/j.watres.2026.125441)
+
+  - tl;dr- this is a review paper that highlights what we know about <i>Microcoleus</i> and highlights future research directions including forecasting and ecotoxological impacts!
+
+- Brown, S. M., J.R. Blaszczak, R.K. Shriver, R.C. Jones, A. Sohrab, R. Goel, G.L. Boyer, B.  Wei, K.M. Manoylov, T.R. Nelson, **J.M.** **Zabrecky**, and R. Stancheva. 2025. Growth and anatoxin-a production of *Microcoleus* (Cyanobacteria) strains from streams in California, USA*. Harmful Algae* 144, 102834. [DOI: 10.1016/j.hal.2025.102834](https://doi.org/10.1016/j.hal.2025.102834)
+
+  - tl;dr- lab experiment showing that anatoxin production by *Microcoleus* is highest during the exponential growth phase and overall toxic strains had higher growth rates than nontoxic strains under luxurious nutrient conditions. this work used strains collected from the South Fork Eel River!
