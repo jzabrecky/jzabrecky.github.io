@@ -6,6 +6,7 @@ website:
   title: "Jordan Zabrecky"
   favicon: images/cosmarium_icon.png
   navbar:
+    title: Jordan Zabrecky
     left:
       - href: research.qmd
         text: research
@@ -17,7 +18,8 @@ website:
         text: CV
       - icon: github 
         href: https://github.com/jzabrecky
-        target: _blank
+
+reader-mode: true
  
 format:
   html:
