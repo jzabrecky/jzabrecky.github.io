@@ -19,9 +19,9 @@ Cyanobacterial harmful algal blooms (cHABs) can negatively impact water quality 
 To estimate gross primary productivity (GPP) in rivers, we use high-frequency dissolved oxygen data collected from sensors. We then use that data with other data (such as temperature, light, river depth) to create time series estimates of GPP which we then compared to benthic cyanobacterial dynamics.
 
 ::: {layout="[[1, 1, 1]]"}
-![](images/DO_sensor.jpeg){group="bc_prediction" description="Dissolved oxygen and conductivity sensors placed in the South Fork Eel River, CA"}
+![](images/DO_sensor.jpeg){group="bc_prediction" description="Dissolved oxygen and conductivity sensors placed in the South Fork Eel River, CA (photo credits: Andrea Garcia Jimenez)"}
 
 ![](images/microcoleus_riffle.jpeg){group="bc_prediction" description="*Microcoleus* proliferation in the South Fork Eel River, CA"}
 
-![](images/kayaking.jpeg){group="bc_prediction" description="We get average river depth estimates for GPP modeling via kayaking and taking depth measurements with a sonar depth finder"}
+![](images/kayaking.jpeg){group="bc_prediction" description="We get average river depth estimates for GPP modeling via kayaking and taking depth measurements with a sonar depth finder (photo credits: Joanna Blaszczak)"}
 :::
